@@ -1,10 +1,10 @@
-TOKEN = 'OTM1MjY3OTYxNzU1ODI4MjY2.Ye8KKg.ZOMv6TRyptBbA8wEoV5aJRkHeug' #token
+TOKEN = '' #token
 
-WELCOME_CHANNEL = 935267612114444342 # ID канала с приветствием 
+WELCOME_CHANNEL = 935267612114444342 # ID channel 
 
-CSV_EXP = "./exp.csv" #названия файла с экспой
+CSV_EXP = "./exp.csv" #file name wth exp
 
-# роли
+# ID role
 ROLES = {
     '1':935963592853966880,
     '15':935963731823829072,
